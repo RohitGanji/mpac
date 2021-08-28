@@ -1,4 +1,4 @@
-# NLP-Medical-Paper-Abstracts-Classification
+# Medical Paper Abstracts Classification
 
 This project is an implementation of the paper "Neural Networks for Joint Sentence Classification in Medical Abstracts".
 
