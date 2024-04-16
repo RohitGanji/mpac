@@ -6,9 +6,3 @@ Paper - https://arxiv.org/pdf/1612.05251.pdf
 
 ## Model Architecture
 ![](model_architecture.png)
-
-## Model Accuracy
-![](accuracy.png)
-
-## Model Loss
-![](loss.png)
